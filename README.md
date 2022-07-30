@@ -1,6 +1,6 @@
 # GetWeather
 
-User can find the temperature in both celcius and Fahrenheit just bu clicking on the temperation. Status of weather is also displayed. User just need to allow website to access the current location. 
+User can find the temperature in both celcius and Fahrenheit just by clicking on the button. Status of weather is also displayed. There is option for both user's location and custom location entered by him/her. User just need to allow website to access the current location for automatically knowing the temperature of his/her area. There is weekly forcast displayed for the given location.
 
 Technology used : ** Html, Css, Javascript and Openweather API**
 
